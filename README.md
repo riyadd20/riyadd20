@@ -57,6 +57,25 @@
 
 ---
 
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyadeorukhkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deorukhk@usc.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://riyadeorukhkar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9C7BFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/riyaDD/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9C7BFF&section=footer"/>
