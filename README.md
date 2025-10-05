@@ -1,5 +1,7 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=9C7BFF&height=200&section=header&text=Hi%20there,%20I'm%20Riya%20👋&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%26%20Web%20Dev%20Enthusiast&descAlignY=55&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9C7BFF&text=Hi%20there,%20I'm%20Riya%20👋&fontAlignY=35&fontSize=38&fontColor=E2E8F0&animation=fadeIn&section=header&reversal=true"/>
+</p>
 
 
 <!-- Typing Intro -->
@@ -51,10 +53,11 @@
 
 ### ✨ Fun Fact
 
-> “Code is like art — the more you refine it, the more expressive it becomes.”  
+> “Code never lies, comments sometimes do.” — Ron Jeffries
 
 ---
 
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9C7BFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9C7BFF&section=footer"/>
 </p>
