@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=9C7BFF&height=200&section=header&text=Hi%20there,%20I'm%20Riya%20👋&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20%26%20Web%20Dev%20Enthusiast&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9C7BFF&height=200&section=header&text=Hi%20there,%20I'm%20Riya%20&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20%26%20Web%20Dev%20Enthusiast&descAlignY=55&animation=fadeIn)
 
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C5A3FF&width=550&lines=Passionate+about+building+intelligent+and+scalable+systems;Exploring+ML,+Web,+and+Cloud+development;Let's+create+something+awesome+✨)](https://git.io/typing-svg)
