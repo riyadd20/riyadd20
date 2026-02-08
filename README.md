@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9C7BFF&text=Hi%20there,%20I'm%20Riya%20👋&fontAlignY=35&fontSize=38&fontColor=E2E8F0&animation=fadeIn&section=header&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9C7BFF&text=Hi%20there,%20I'm%20Riya%20&fontAlignY=35&fontSize=38&fontColor=E2E8F0&animation=fadeIn&section=header&reversal=true"/>
 </p>
 
 
