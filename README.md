@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyadd20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
@@ -31,13 +31,13 @@
 
 ---
 
-### 🧩 Activity Graph
+### Activity Graph
 
 [![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyadd20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -51,13 +51,13 @@
 
 ---
 
-### ✨ Fun Fact
+### Fun Fact
 
-> “Code never lies, comments sometimes do.” — Ron Jeffries
+> “Code never lies, comments sometimes do.” — Ron Jeffries ✨
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riyadeorukhkar/" target="_blank">
