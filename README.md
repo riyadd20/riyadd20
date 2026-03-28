@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 🎓 Master’s in Computer Science @ USC  
 💻 Currently working on full-stack and AI-driven projects  
